@@ -36,7 +36,7 @@ https://yuchengkai.cn/docs/frontend/#map%E3%80%81flatmap-%E5%92%8C-reduce
 1. [节流](https://yuchengkai.cn/docs/frontend/#%E8%8A%82%E6%B5%81)
 1. [call, apply, bind 区别及模拟实现](https://yuchengkai.cn/docs/frontend/#call-apply-bind-%E5%8C%BA%E5%88%AB)
 1. [promise、generator、async await等异步解决方案](https://www.cnblogs.com/zuobaiquan01/p/8477322.html)(http://www.cnblogs.com/wangfupeng1988/p/6513070.html)
-1. event loop(视频：https://video.tudou.com/v/XMjQ1OTczODMyMA==.html?__fr=oldtd)(案例：https://juejin.im/post/5a6155126fb9a01cb64edb45)
+1. event loop(视频：https://video.tudou.com/v/XMjQ1OTczODMyMA==.html?__fr=oldtd)(案例：https://juejin.im/post/5a6155126fb9a01cb64edb45)(https://juejin.im/post/59e85eebf265da430d571f89)
 1. 
 
 ## --react redux
