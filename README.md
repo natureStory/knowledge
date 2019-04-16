@@ -1,5 +1,5 @@
 ## last studying address
-https://yuchengkai.cn/docs/frontend/#map%E3%80%81flatmap-%E5%92%8C-reduce
+https://yuchengkai.cn/docs/frontend/browser.html#service-worker
 
 ## --html
 
@@ -36,7 +36,6 @@ https://yuchengkai.cn/docs/frontend/#map%E3%80%81flatmap-%E5%92%8C-reduce
 1. [节流](https://yuchengkai.cn/docs/frontend/#%E8%8A%82%E6%B5%81)
 1. [call, apply, bind 区别及模拟实现](https://yuchengkai.cn/docs/frontend/#call-apply-bind-%E5%8C%BA%E5%88%AB)
 1. [promise、generator、async await等异步解决方案](https://www.cnblogs.com/zuobaiquan01/p/8477322.html)(http://www.cnblogs.com/wangfupeng1988/p/6513070.html)
-1. event loop(视频：https://video.tudou.com/v/XMjQ1OTczODMyMA==.html?__fr=oldtd)(案例：https://juejin.im/post/5a6155126fb9a01cb64edb45)(https://juejin.im/post/59e85eebf265da430d571f89)
 1. 
 
 ## --react redux
@@ -45,12 +44,19 @@ https://yuchengkai.cn/docs/frontend/#map%E3%80%81flatmap-%E5%92%8C-reduce
 
 ## --硬知识
 1. 浏览器缓存
-1. js继承模式(https://yuchengkai.cn/docs/frontend/#%E7%BB%A7%E6%89%BF)
+1. [js继承模式](https://yuchengkai.cn/docs/frontend/#%E7%BB%A7%E6%89%BF)
 1. 输入url发生了什么
+    1. (缓存：https://juejin.im/post/5c6e77da6fb9a049db73bb07)
+    1. (一，同上、https://juejin.im/post/5c4e5250518825260c5d1f63)
+    1. (二，解析、https://juejin.im/post/5c72a870e51d4541e37db4b3)
 1. [深度解析原型中的各个难点](https://github.com/KieSun/Dream/issues/2)
 1. 模块化(https://yuchengkai.cn/docs/frontend/#%E6%A8%A1%E5%9D%97%E5%8C%96)(https://www.cnblogs.com/SRH151219/p/10200752.html)
+1. 同源策略以及跨域方式(https://yuchengkai.cn/docs/frontend/browser.html#%E8%B7%A8%E5%9F%9F)(https://segmentfault.com/a/1190000011145364)
+1. 
+1. event loop(https://yuchengkai.cn/docs/frontend/browser.html#event-loop)(视频：https://video.tudou.com/v/XMjQ1OTczODMyMA==.html?__fr=oldtd)(案例：https://juejin.im/post/5a6155126fb9a01cb64edb45)(https://juejin.im/post/59e85eebf265da430d571f89)
 
 ## 面试题地址
+1. [Weekly-FE-Interview周刊](https://github.com/airuikun/Weekly-FE-Interview)
 1. [JS | InterviewMap](https://yuchengkai.cn/docs/frontend/)
 1. [前端面试经典题目合集（HTML+CSS）_牛客网](https://www.nowcoder.com/ta/review-frontend?query=&asc=true&order=&page=1)
 1. [前端面试经典题目合集_牛客网](https://www.nowcoder.com/ta/front-end-interview)
