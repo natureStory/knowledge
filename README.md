@@ -1,5 +1,5 @@
 ## last studying address
-https://yuchengkai.cn/docs/frontend/browser.html#service-worker
+https://yuchengkai.cn/docs/frontend/performance.html#%E9%80%89%E6%8B%A9%E5%90%88%E9%80%82%E7%9A%84%E7%BC%93%E5%AD%98%E7%AD%96%E7%95%A5
 
 ## --html
 
@@ -36,7 +36,8 @@ https://yuchengkai.cn/docs/frontend/browser.html#service-worker
 1. [节流](https://yuchengkai.cn/docs/frontend/#%E8%8A%82%E6%B5%81)
 1. [call, apply, bind 区别及模拟实现](https://yuchengkai.cn/docs/frontend/#call-apply-bind-%E5%8C%BA%E5%88%AB)
 1. [promise、generator、async await等异步解决方案](https://www.cnblogs.com/zuobaiquan01/p/8477322.html)(http://www.cnblogs.com/wangfupeng1988/p/6513070.html)
-1. 
+1. [存储](https://yuchengkai.cn/docs/frontend/browser.html#%E5%AD%98%E5%82%A8)(拓展：https://www.jianshu.com/p/10bbff64ccab)
+1. [service-worker](https://yuchengkai.cn/docs/frontend/browser.html#service-worker)
 
 ## --react redux
 1. [为什么要使用redux](https://github.com/kenberkeley/redux-simple-tutorial)
@@ -49,14 +50,26 @@ https://yuchengkai.cn/docs/frontend/browser.html#service-worker
     1. (缓存：https://juejin.im/post/5c6e77da6fb9a049db73bb07)
     1. (一，同上、https://juejin.im/post/5c4e5250518825260c5d1f63)
     1. (二，解析、https://juejin.im/post/5c72a870e51d4541e37db4b3)
+1. [十分钟读懂浏览器渲染流程](https://blog.csdn.net/farsight1/article/details/79758347)
+1. [前端阶段性总结（一）： HTTP 协议，从1.0到2.0（他的主页其他博客也需阅读）](https://segmentfault.com/a/1190000016179430)
+1. [前端阶段性总结（二）：页面渲染机制与性能优化](https://segmentfault.com/a/1190000016458627)
+1. [前端阶段性总结（三）：web安全](https://segmentfault.com/a/1190000016490817)
 1. [深度解析原型中的各个难点](https://github.com/KieSun/Dream/issues/2)
 1. 模块化(https://yuchengkai.cn/docs/frontend/#%E6%A8%A1%E5%9D%97%E5%8C%96)(https://www.cnblogs.com/SRH151219/p/10200752.html)
 1. 同源策略以及跨域方式(https://yuchengkai.cn/docs/frontend/browser.html#%E8%B7%A8%E5%9F%9F)(https://segmentfault.com/a/1190000011145364)
-1. 
 1. event loop(https://yuchengkai.cn/docs/frontend/browser.html#event-loop)(视频：https://video.tudou.com/v/XMjQ1OTczODMyMA==.html?__fr=oldtd)(案例：https://juejin.im/post/5a6155126fb9a01cb64edb45)(https://juejin.im/post/59e85eebf265da430d571f89)
+1. 为什么css3比修改height left等属性做动画性能更好？
+1. translate3D为什么比translate性能更高？
+1. [重绘、重排/回流](https://yuchengkai.cn/docs/frontend/browser.html#%E9%87%8D%E7%BB%98%EF%BC%88repaint%EF%BC%89%E5%92%8C%E5%9B%9E%E6%B5%81%EF%BC%88reflow%EF%BC%89)
+1. [如何减少重绘、回流](https://yuchengkai.cn/docs/frontend/browser.html#%E5%87%8F%E5%B0%91%E9%87%8D%E7%BB%98%E5%92%8C%E5%9B%9E%E6%B5%81)
+1. [缓存：强缓存、协商缓存](https://yuchengkai.cn/docs/frontend/performance.html#%E7%BC%93%E5%AD%98)
+
+## --汇总篇
+1. [前端面试的总结: 关于http+TCP+性能的优化](https://blog.csdn.net/weixin_41646716/article/details/79988249)
+1. [Weekly-FE-Interview周刊](https://github.com/airuikun/Weekly-FE-Interview)
+1. [原生JS知识点整理（必备基础）](https://juejin.im/post/5cb7b62b5188253772753c01)
 
 ## 面试题地址
-1. [Weekly-FE-Interview周刊](https://github.com/airuikun/Weekly-FE-Interview)
 1. [JS | InterviewMap](https://yuchengkai.cn/docs/frontend/)
 1. [前端面试经典题目合集（HTML+CSS）_牛客网](https://www.nowcoder.com/ta/review-frontend?query=&asc=true&order=&page=1)
 1. [前端面试经典题目合集_牛客网](https://www.nowcoder.com/ta/front-end-interview)
