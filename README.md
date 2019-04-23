@@ -41,7 +41,7 @@ https://yuchengkai.cn/docs/frontend/safety.html
 
 ## --react redux
 1. [为什么要使用redux](https://github.com/kenberkeley/redux-simple-tutorial)
-1. 
+1. [React16新的生命周期函数getDerivedStateFromProps](https://blog.csdn.net/nnxxyy1111/article/details/80832525)
 
 ## --硬知识
 1. 浏览器缓存
@@ -79,6 +79,9 @@ https://yuchengkai.cn/docs/frontend/safety.html
     1. webpack优化(代码压缩、tree shaking去除没使用的代码、小图base64、拆分路由按需加载、打包文件加哈希实现浏览器缓存文件)
 1. [JavaScript如何一次性展示几万条数据
 ](https://blog.csdn.net/leipanbo/article/details/79894912)
+1. web网络安全
+    1. [XSS攻击](https://my.oschina.net/meituantech/blog/2218539)
+    1. [CSRF攻击](https://my.oschina.net/meituantech/blog/2243958)
 
 
 ## --汇总篇
@@ -86,7 +89,7 @@ https://yuchengkai.cn/docs/frontend/safety.html
 1. [Weekly-FE-Interview周刊](https://github.com/airuikun/Weekly-FE-Interview)
 1. [原生JS知识点整理（必备基础）](https://juejin.im/post/5cb7b62b5188253772753c01)
 
-## 面试题地址
+## INTERVIEW MAP ADDRESS
 1. [JS | InterviewMap](https://yuchengkai.cn/docs/frontend/)
 1. [前端面试经典题目合集（HTML+CSS）_牛客网](https://www.nowcoder.com/ta/review-frontend?query=&asc=true&order=&page=1)
 1. [前端面试经典题目合集_牛客网](https://www.nowcoder.com/ta/front-end-interview)
