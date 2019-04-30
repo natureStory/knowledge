@@ -43,6 +43,10 @@ https://yuchengkai.cn/docs/frontend/safety.html
 1. [为什么要使用redux](https://github.com/kenberkeley/redux-simple-tutorial)
 1. [React16新的生命周期函数getDerivedStateFromProps](https://blog.csdn.net/nnxxyy1111/article/details/80832525)
 
+## --框架、设计模式
+1. MVC
+1. MVVM
+
 ## --硬知识
 1. 浏览器缓存
 1. [js继承模式](https://yuchengkai.cn/docs/frontend/#%E7%BB%A7%E6%89%BF)
@@ -82,12 +86,23 @@ https://yuchengkai.cn/docs/frontend/safety.html
 1. web网络安全
     1. [XSS攻击](https://my.oschina.net/meituantech/blog/2218539)
     1. [CSRF攻击](https://my.oschina.net/meituantech/blog/2243958)
+    1. [内容安全策略:CSP](https://linux.cn/article-5848-1.html)
+    1. [密码安全](https://yuchengkai.cn/docs/frontend/safety.html#%E5%AF%86%E7%A0%81%E5%AE%89%E5%85%A8)
 
+## --软知识
+1. 谈谈你的工作流程。
+
+1. 谈谈你印象最深刻的一个bug。
+
+1. 谈谈你印象最深刻的一个项目。
+
+1. 谈谈你最满意的一个项目。
 
 ## --汇总篇
 1. [前端面试的总结: 关于http+TCP+性能的优化](https://blog.csdn.net/weixin_41646716/article/details/79988249)
 1. [Weekly-FE-Interview周刊](https://github.com/airuikun/Weekly-FE-Interview)
 1. [原生JS知识点整理（必备基础）](https://juejin.im/post/5cb7b62b5188253772753c01)
+1. [前端面试查漏补缺，大知识块](https://juejin.im/post/5c6bab91f265da2dd94c9f9e)
 
 ## INTERVIEW MAP ADDRESS
 1. [JS | InterviewMap](https://yuchengkai.cn/docs/frontend/)
