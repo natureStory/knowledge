@@ -5,9 +5,10 @@ https://yuchengkai.cn/docs/frontend/safety.html
 
 ## --css
 1. [一个元素垂直居中的方式，至少三种](https://www.cnblogs.com/SRH151219/p/10401489.html)
-2. [BFC 块格式化上下文](https://www.cnblogs.com/SRH151219/p/10401285.html)
-3. [flex布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
-4. [px、rem、em](http://www.runoob.com/w3cnote/px-em-rem-different.html)
+1. [BFC 块格式化上下文](https://www.cnblogs.com/SRH151219/p/10401285.html)
+1. [flex布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+1. flex实现瀑布流
+1. [px、rem、em](http://www.runoob.com/w3cnote/px-em-rem-different.html)
 
 ## --js
 1. [创建一个对象的过程](https://yuchengkai.cn/docs/frontend/#new)
@@ -46,6 +47,8 @@ https://yuchengkai.cn/docs/frontend/safety.html
 ## --框架、设计模式
 1. MVC
 1. MVVM
+1. [手写订阅发布模式](https://www.jianshu.com/p/ea671156baf5)
+1. babel loader详解以及手写babel loader(https://segmentfault.com/a/1190000014205729)(https://segmentfault.com/a/1190000011524373/)
 
 ## --硬知识
 1. 浏览器缓存
@@ -79,7 +82,7 @@ https://yuchengkai.cn/docs/frontend/safety.html
     1. 懒加载(图片，视频等)
     1. 图片优化(css代替图片，cdn加速，尺寸适配，小图base64，雪碧图，svg代替png等)
     1. 其他文件优化(css放head，script放body底部，js耗能阻塞执行启用webworker)
-    1. CDN加速
+    1. CDN加速，多CDN服务器突破并行下载数量上限
     1. webpack优化(代码压缩、tree shaking去除没使用的代码、小图base64、拆分路由按需加载、打包文件加哈希实现浏览器缓存文件)
 1. [JavaScript如何一次性展示几万条数据
 ](https://blog.csdn.net/leipanbo/article/details/79894912)
@@ -91,11 +94,8 @@ https://yuchengkai.cn/docs/frontend/safety.html
 
 ## --软知识
 1. 谈谈你的工作流程。
-
 1. 谈谈你印象最深刻的一个bug。
-
 1. 谈谈你印象最深刻的一个项目。
-
 1. 谈谈你最满意的一个项目。
 
 ## --汇总篇
