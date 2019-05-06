@@ -46,9 +46,13 @@ https://yuchengkai.cn/docs/frontend/safety.html
 
 ## --框架、设计模式
 1. MVC
-1. MVVM
+1. [MVVM](https://yuchengkai.cn/docs/frontend/framework.html#mvvm)
+    (1. [angular脏检查机制](https://yuchengkai.cn/docs/frontend/framework.html#%E8%84%8F%E6%95%B0%E6%8D%AE%E6%A3%80%E6%B5%8B)；2. [vue数据劫持](https://yuchengkai.cn/docs/frontend/framework.html#%E6%95%B0%E6%8D%AE%E5%8A%AB%E6%8C%81))
 1. [手写订阅发布模式](https://www.jianshu.com/p/ea671156baf5)
 1. babel loader详解以及手写babel loader(https://segmentfault.com/a/1190000014205729)(https://segmentfault.com/a/1190000011524373/)
+1. [路由原理](https://yuchengkai.cn/docs/frontend/framework.html#%E8%B7%AF%E7%94%B1%E5%8E%9F%E7%90%86)
+1. [Virtual Dom](https://yuchengkai.cn/docs/frontend/framework.html#%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81-virtual-dom)
+1. 
 
 ## --硬知识
 1. 浏览器缓存
