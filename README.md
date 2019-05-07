@@ -2,6 +2,7 @@
 https://yuchengkai.cn/docs/frontend/safety.html
 
 ## --html
+1. [HTML5 新特性](https://www.cnblogs.com/vicky1018/p/7705223.html)
 
 ## --css
 1. [一个元素垂直居中的方式，至少三种](https://www.cnblogs.com/SRH151219/p/10401489.html)
@@ -38,11 +39,16 @@ https://yuchengkai.cn/docs/frontend/safety.html
 1. [call, apply, bind 区别及模拟实现](https://yuchengkai.cn/docs/frontend/#call-apply-bind-%E5%8C%BA%E5%88%AB)
 1. [promise、generator、async await等异步解决方案](https://www.cnblogs.com/zuobaiquan01/p/8477322.html)(http://www.cnblogs.com/wangfupeng1988/p/6513070.html)
 1. [存储](https://yuchengkai.cn/docs/frontend/browser.html#%E5%AD%98%E5%82%A8) (拓展：https://www.jianshu.com/p/10bbff64ccab)
+1. []
 1. [service-worker](https://yuchengkai.cn/docs/frontend/browser.html#service-worker)
 
 ## --react redux
 1. [为什么要使用redux](https://github.com/kenberkeley/redux-simple-tutorial)
 1. [React16新的生命周期函数getDerivedStateFromProps](https://blog.csdn.net/nnxxyy1111/article/details/80832525)
+1. [React v16新特性](https://yuchengkai.cn/docs/frontend/react.html#react-%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%88%86%E6%9E%90)：
+    StrictMode、fiber、新的生命周期函数、Context、新的render、Fragment、ref=>React.createRef()、Portals组件、错误处理(componentDidCatch)等
+1. setState异步操作
+1. [redux 源码分析](https://yuchengkai.cn/docs/frontend/react.html#redux-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)
 
 ## --框架、设计模式
 1. MVC
@@ -52,7 +58,6 @@ https://yuchengkai.cn/docs/frontend/safety.html
 1. babel loader详解以及手写babel loader(https://segmentfault.com/a/1190000014205729)(https://segmentfault.com/a/1190000011524373/)
 1. [路由原理](https://yuchengkai.cn/docs/frontend/framework.html#%E8%B7%AF%E7%94%B1%E5%8E%9F%E7%90%86)
 1. [Virtual Dom](https://yuchengkai.cn/docs/frontend/framework.html#%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81-virtual-dom)
-1. 
 
 ## --硬知识
 1. 浏览器缓存
@@ -69,6 +74,7 @@ https://yuchengkai.cn/docs/frontend/safety.html
 1. 模块化(https://yuchengkai.cn/docs/frontend/#%E6%A8%A1%E5%9D%97%E5%8C%96)(https://www.cnblogs.com/SRH151219/p/10200752.html)
 1. 同源策略以及跨域方式(https://yuchengkai.cn/docs/frontend/browser.html#%E8%B7%A8%E5%9F%9F)(https://segmentfault.com/a/1190000011145364)
 1. event loop(https://yuchengkai.cn/docs/frontend/browser.html#event-loop)(视频：https://video.tudou.com/v/XMjQ1OTczODMyMA==.html?__fr=oldtd)(案例：https://juejin.im/post/5a6155126fb9a01cb64edb45)(https://juejin.im/post/59e85eebf265da430d571f89)
+1. [event 英文带动画](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 1. 为什么css3比修改height left等属性做动画性能更好？
 1. translate3D为什么比translate性能更高？
 1. [重绘、重排/回流](https://yuchengkai.cn/docs/frontend/browser.html#%E9%87%8D%E7%BB%98%EF%BC%88repaint%EF%BC%89%E5%92%8C%E5%9B%9E%E6%B5%81%EF%BC%88reflow%EF%BC%89)
@@ -88,6 +94,8 @@ https://yuchengkai.cn/docs/frontend/safety.html
     1. 其他文件优化(css放head，script放body底部，js耗能阻塞执行启用webworker)
     1. CDN加速，多CDN服务器突破并行下载数量上限
     1. webpack优化(代码压缩、tree shaking去除没使用的代码、小图base64、拆分路由按需加载、打包文件加哈希实现浏览器缓存文件)
+    1. [参考自己的简书博客](https://www.jianshu.com/p/44146f8c0137)
+1. [使用chrome开发者工具中的performance面板解决性能瓶颈](https://www.cnblogs.com/xiaohuochai/p/9182710.html)
 1. [JavaScript如何一次性展示几万条数据
 ](https://blog.csdn.net/leipanbo/article/details/79894912)
 1. web网络安全
@@ -95,6 +103,12 @@ https://yuchengkai.cn/docs/frontend/safety.html
     1. [CSRF攻击](https://my.oschina.net/meituantech/blog/2243958)
     1. [内容安全策略:CSP](https://linux.cn/article-5848-1.html)
     1. [密码安全](https://yuchengkai.cn/docs/frontend/safety.html#%E5%AF%86%E7%A0%81%E5%AE%89%E5%85%A8)
+1. [浏览器跨页签通信](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=29699&query=&asc=true&order=&page=22)
+1. [实现一个圆形点击区域](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=29700&query=&asc=true&order=&page=23)
+1. [ref与src区别](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=29704&query=&asc=true&order=&page=27)
+1. [http与https区别](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=32003&query=&asc=true&order=&page=73)
+1. [iframe以及缺点](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=32018&query=&asc=true&order=&page=88)
+1. [get post区别](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=32067&query=&asc=true&order=&page=137)
 
 ## --软知识
 1. 谈谈你的工作流程。
@@ -109,7 +123,7 @@ https://yuchengkai.cn/docs/frontend/safety.html
 1. [前端面试查漏补缺，大知识块](https://juejin.im/post/5c6bab91f265da2dd94c9f9e)
 
 ## INTERVIEW MAP ADDRESS
-1. [JS | InterviewMap](https://yuchengkai.cn/docs/frontend/)
+1. --[JS | InterviewMap](https://yuchengkai.cn/docs/frontend/)
 1. [前端面试经典题目合集（HTML+CSS）_牛客网](https://www.nowcoder.com/ta/review-frontend?query=&asc=true&order=&page=1)
 1. [前端面试经典题目合集_牛客网](https://www.nowcoder.com/ta/front-end-interview)
 1. [qiu-deqing/FE-interview: 收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
