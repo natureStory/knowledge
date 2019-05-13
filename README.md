@@ -109,6 +109,7 @@ https://yuchengkai.cn/docs/frontend/safety.html
 1. [http与https区别](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=32003&query=&asc=true&order=&page=73)
 1. [iframe以及缺点](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=32018&query=&asc=true&order=&page=88)
 1. [get post区别](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=32067&query=&asc=true&order=&page=137)
+1. [实现sleep效果](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=32167&query=&asc=true&order=&page=237)
 
 ## --软知识
 1. 谈谈你的工作流程。
@@ -124,7 +125,7 @@ https://yuchengkai.cn/docs/frontend/safety.html
 
 ## INTERVIEW MAP ADDRESS
 1. --[JS | InterviewMap](https://yuchengkai.cn/docs/frontend/)
-1. [前端面试经典题目合集（HTML+CSS）_牛客网](https://www.nowcoder.com/ta/review-frontend?query=&asc=true&order=&page=1)
+1. --[前端面试经典题目合集（HTML+CSS）_牛客网](https://www.nowcoder.com/ta/review-frontend?query=&asc=true&order=&page=1)
 1. [前端面试经典题目合集_牛客网](https://www.nowcoder.com/ta/front-end-interview)
 1. [qiu-deqing/FE-interview: 收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
 1. [我现在的情况应该怎么学习前端? - 知乎](https://www.zhihu.com/question/29382690)
