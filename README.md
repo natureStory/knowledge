@@ -73,6 +73,7 @@ https://yuchengkai.cn/docs/frontend/safety.html
 1. [深度解析原型中的各个难点](https://github.com/KieSun/Dream/issues/2)
 1. 模块化(https://yuchengkai.cn/docs/frontend/#%E6%A8%A1%E5%9D%97%E5%8C%96)(https://www.cnblogs.com/SRH151219/p/10200752.html)
 1. 同源策略以及跨域方式(https://yuchengkai.cn/docs/frontend/browser.html#%E8%B7%A8%E5%9F%9F)(https://segmentfault.com/a/1190000011145364)
+1. 跨域的解决方案(https://segmentfault.com/a/1190000011145364)
 1. event loop(https://yuchengkai.cn/docs/frontend/browser.html#event-loop)(视频：https://video.tudou.com/v/XMjQ1OTczODMyMA==.html?__fr=oldtd)(案例：https://juejin.im/post/5a6155126fb9a01cb64edb45)(https://juejin.im/post/59e85eebf265da430d571f89)
 1. [event 英文带动画](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 1. 为什么css3比修改height left等属性做动画性能更好？
